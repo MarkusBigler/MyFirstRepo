@@ -1,2 +1,2 @@
 This is the text of my first file
-basta.
+I changed this file.
